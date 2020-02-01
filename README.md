@@ -9,11 +9,11 @@ Over 100 million people visit Quora every month, so it's no surprise that many p
 - This could be useful to instantly provide answers to questions that have already been answered. 
 - We are tasked with predicting whether a pair of questions are duplicates or not. 
 
-# 1.2 Sources/Useful Links</h2>
+#  Sources/Useful Links</h2>
 
 - Source : https://www.kaggle.com/c/quora-question-pairs
 
-# 1.3 Real world/Business Objectives and Constraints </h2>
+#  Real world/Business Objectives and Constraints </h2>
 
 1. The cost of a mis-classification can be very high.
 2. You would want a probability of a pair of questions to be duplicates so that you can choose any threshold of choice.
